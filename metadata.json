@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tape: Interactive Visual Novel",
+  "description": "A Cassette Futurism styled interactive visual novel engine powered by Gemini. Features dynamic storytelling, pixel-art generation, multi-ending systems, and persistent save states.",
+  "requestFramePermissions": []
+}
